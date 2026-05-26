@@ -18,9 +18,3 @@ I'm **ToreX**, a passionate Game Developer. I build my projects using Unity and 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thetorex/thetorex/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thetorex/thetorex/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/thetorex/thetorex/output/github-snake.svg" />
-</picture>
