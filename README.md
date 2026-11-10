@@ -3,7 +3,7 @@
 
 # 👋 Hi there
 
-I'm **ToreX**, a passionate Game Developer. I build my projects using Unity and VS Code-and I absolutely love both of them!
+I'm **torex**, a passionate Game Developer. I build my projects using Unity and VS Code-and I absolutely love both of them!
 
 # 🚀 What I Do
 
